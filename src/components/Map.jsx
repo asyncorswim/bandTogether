@@ -94,7 +94,7 @@ render() {
 
   return(
     <div>
-      Hello
+      <h4>Listings Near you: </h4>
     <div id="map">
     </div>
     </div>
